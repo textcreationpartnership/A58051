@@ -1,0 +1,500 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rape of Europa by Jupiter a masques as it is sung at the Queens theatre in Dorset-Garden by their Majesties servants.</title>
+            <author>S. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58051</idno>
+            <idno type="STC">Wing R256</idno>
+            <idno type="STC">ESTC R14094</idno>
+            <idno type="EEBO-CITATION">13335937</idno>
+            <idno type="OCLC">ocm 13335937</idno>
+            <idno type="VID">99092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99092)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 473:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rape of Europa by Jupiter a masques as it is sung at the Queens theatre in Dorset-Garden by their Majesties servants.</title>
+                  <author>S. C.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: S. C.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99092:1"/>
+            <!-- PDF PAGE 63 -->
+            <pb facs="tcp:99092:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 63 -->
+            <p>THE Rape of EUROPA BY JUPITER. A MASQUE; As it is Sung at the QUEENS THEATRE, IN Dorſet-Garden.</p>
+            <p>By their MAJESTIES Servants.</p>
+            <q>
+               <l>Mutatus formam tauri, miſtuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Juvencis</l>
+               <l>Mugit, et in teneris formoſus obambulat herbis.</l>
+               <bibl>
+                  <hi>Ovid: Metam.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. Bennet,</hi> and are to be ſold by moſt Bookſellers. 1694. Price Sixpence.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:99092:2"/>
+            <!-- PDF PAGE 64 -->
+            <list>
+               <head>The Names of the Perſons that Sing.</head>
+               <item>JUpiter. Mr. <hi>Bowman.</hi>
+               </item>
+               <item>Mercury. Mr. <hi>Magnus.</hi>
+               </item>
+               <item>Europa. Mrs. <hi>Bracegirdle.</hi>
+               </item>
+               <item>Herſe. Two Nymphs. Mrs. <hi>Hodgſon.</hi>
+               </item>
+               <item>Aglaura. Two Nymphs. Mrs. <hi>Cibber.</hi>
+               </item>
+               <item>Coridon. Mr. <hi>Doggett.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Dancers.</head>
+               <item>Mr. <hi>Doggett.</hi>
+               </item>
+               <item>Mr. <hi>Phillboy.</hi>
+               </item>
+               <item>Mr. <hi>Prince.</hi>
+               </item>
+               <item>Mr. <hi>Bray.</hi>
+               </item>
+               <item>Mrs. <hi>Knight.</hi>
+               </item>
+               <item>Mrs. <hi>Lucas.</hi>
+               </item>
+               <item>Mrs. <hi>Temple.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="argument">
+            <pb facs="tcp:99092:2"/>
+            <!-- PDF PAGE 64 -->
+            <head>ARGUMENT.</head>
+            <p>
+               <hi>EUropa</hi> Siſter of <hi>Cadmus,</hi> and Daugh<g ref="char:EOLhyphen"/>ter of <hi>Agenor</hi> King of <hi>Phoenicia,</hi> was Sollicited by her Father to mar<g ref="char:EOLhyphen"/>ry a Nobleman of <hi>Tyre.</hi> But She being a Nymph of <hi>Diana</hi>'s train, was averſe to the Importunities of her Lover, and commands of her ſevere Father; In vain was her Averſion, for he ſtrictly command<g ref="char:EOLhyphen"/>ed her to prepare her ſelf for the per<g ref="char:EOLhyphen"/>formance of his will. But Death be<g ref="char:EOLhyphen"/>ing a more acceptable choice, ſhe gets leave for a ſhort time, (by the interceſ<g ref="char:EOLhyphen"/>ſion of her Brother and a promiſe of com<g ref="char:EOLhyphen"/>pliance upon her return, to her Father's orders) with a few Companions to retire to the Country: <hi>Jupiter</hi> being cloy'd with the Fruition of his late Miſtreſs <hi>Io,</hi> Re<g ref="char:EOLhyphen"/>ſolves
+<pb facs="tcp:99092:3"/>
+               <!-- PDF PAGE 65 -->upon a New Amour, and Deſcen<g ref="char:EOLhyphen"/>ding with his Son <hi>Mercury,</hi> ſees the diſ<g ref="char:EOLhyphen"/>content <hi>Europa,</hi> and loves her. But find<g ref="char:EOLhyphen"/>ing her Inclination contrary to his De<g ref="char:EOLhyphen"/>ſires, transforms himſelf into the Figure of a Bull, and ſo by Artifice, Endeavours to Enjoy his Love. The Nymph being pleas'd with the beauty of the Metamor<g ref="char:EOLhyphen"/>phoz'd Deity, Adorns the Beaſt with Rib<g ref="char:EOLhyphen"/>bons and Flowers, and by degrees is En<g ref="char:EOLhyphen"/>courag'd to get upon him, when the God taking the Hint, conveys her thro' the <hi>Helleſpont,</hi> and raviſhes her, and to Re<g ref="char:EOLhyphen"/>compence her Loſt Virginity makes her a Star.</p>
+         </div>
+      </front>
+      <body>
+         <div type="masque">
+            <pb n="1" facs="tcp:99092:3"/>
+            <!-- PDF PAGE 65 -->
+            <head>SCENE, a Campaigne Country.</head>
+            <stage>Mercury <hi>deſcends in a Chariot drawn by Ravens.</hi>
+            </stage>
+            <sp>
+               <speaker>Mer.</speaker>
+               <l>DRawn by Commanding Love,</l>
+               <l>Imperiall <hi>Jove,</hi>
+               </l>
+               <l>Deſigns to Viſit ſome New tempting fair</l>
+               <l>There is no end of his Amours.</l>
+               <l>No ſooner one has quit the Feild,</l>
+               <l>But others to his Godhead yeild,</l>
+               <l>And ſo imploys my hours:</l>
+               <l>See where the firſt of Gods deſcending.</l>
+               <l>All Nature his known will attending.</l>
+               <stage>Jupiter <hi>deſcends on an Eagle.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Jup.</speaker>
+               <l>HAſte, haſte my Son, my Love admits of no delay</l>
+               <l>In yonder Tyrian Grove</l>
+               <l>You'll find my Love,</l>
+               <l>Begon, and with your awfull wand prepare.</l>
+               <l>All things for my reception there.</l>
+               <stage>They aſcend.</stage>
+            </sp>
+            <pb n="2" facs="tcp:99092:4"/>
+            <!-- PDF PAGE 66 -->
+            <stage>
+               <hi>The</hi> Scene <hi>Changes to a Spacious Plain, a Mellancholly Symphony of Muſick.</hi>
+            </stage>
+            <stage>
+               <hi>Then Enter</hi> Europa, Herſe <hi>and</hi> Aglaura. Mercury <hi>appears above.</hi>
+            </stage>
+            <sp>
+               <speaker>Eu.</speaker>
+               <l>PReſt with my greifs who can my ſorrows end?</l>
+               <l>There's none.</l>
+            </sp>
+            <sp>
+               <speaker>Mer.</speaker>
+               <l>There is,</l>
+            </sp>
+            <sp>
+               <speaker>Eur.</speaker>
+               <l>Ah no.</l>
+            </sp>
+            <sp>
+               <speaker>Mer.</speaker>
+               <l>There is a Friend.</l>
+            </sp>
+            <sp>
+               <speaker>Eur.</speaker>
+               <l>Who is that Friend that will ſo Courteous prove?</l>
+            </sp>
+            <sp>
+               <speaker>Mer.</speaker>
+               <l>Your Greifs are pitty'd by the mighty <hi>Jove.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Eur.</speaker>
+               <l>When will that Potent God ordain my fate?</l>
+            </sp>
+            <sp>
+               <speaker>Mer.</speaker>
+               <l>With patience till the happy Minute wait.</l>
+            </sp>
+            <stage>Mer. <hi>aſcends.</hi>
+            </stage>
+            <sp>
+               <speaker>Herſe.</speaker>
+               <l>APpear all appear your kind Miſtreſs to ſhew</l>
+               <l>What wonderous things you can do.</l>
+               <l>Let ſorrow and care,</l>
+               <l>Pale Cheeks and deſpair</l>
+               <l>For ever <hi>Europa</hi> be ſtrange to the Fair.</l>
+            </sp>
+            <stage>
+               <hi>Enter Shepherds, Shepherdeſſes and</hi> Coridon, <hi>who after ſome Muſick joyn in a Dance.</hi>
+            </stage>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>HOW paſſingly fine theſe Gay whimſies here dance.</l>
+               <l>Come come my dear <hi>Malkin</hi> let us too advance,</l>
+               <l>In ſpight of their frisks and their Capers ſo high,</l>
+               <l>I'le ſhew what Buff Jerkin can do by and by.</l>
+               <stage>They Dance.</stage>
+            </sp>
+            <pb n="3" facs="tcp:99092:4"/>
+            <!-- PDF PAGE 66 -->
+            <stage>Herſe <hi>and</hi> Aglaura <hi>ſing this following Song in parts.</hi>
+            </stage>
+            <lg>
+               <l>STreams of Pleaſure here abounding</l>
+               <l>Make bleſt the Shepherds of this Grove,</l>
+               <l>Eternal Joys the Nymphs ſurrounding</l>
+               <l>Produce th' effects of Laſting love.</l>
+               <l>Here no buiſy heads aſpiring</l>
+               <l>Study the ruine of the great,</l>
+               <l>But each ſwain his Laſs admiring,</l>
+               <l>Laughs at the turmoyls of the great.</l>
+            </lg>
+            <sp>
+               <speaker>Chor.</speaker>
+               <l>
+                  <hi>But each ſwain his Laſs,</hi> &amp;c.</l>
+            </sp>
+            <sp>
+               <speaker>Euro.</speaker>
+               <l>Still I'm Greiving Still Lamenting</l>
+               <l>Still Complaining of my Fate,</l>
+               <l>Still the Cruel Gods Conſenting</l>
+               <l>Add New troubles to my State.</l>
+            </sp>
+            <sp>
+               <speaker>Agla.</speaker>
+               <l>Give than Royal maid your ſorrows o're</l>
+               <l>Implore no longer Heav'n in vain,</l>
+               <l>Since there's above no bliſs in ſtore</l>
+               <l>Search here below your Joys to gain.</l>
+            </sp>
+            <sp>
+               <speaker>Chor.</speaker>
+               <l>
+                  <hi>Give than Royall Maid,</hi> &amp;c.</l>
+            </sp>
+            <pb n="4" facs="tcp:99092:5"/>
+            <!-- PDF PAGE 67 -->
+            <stage>Coridon <hi>and his Miſtreſs Sing this following Dialogue.</hi>
+            </stage>
+            <stage>
+               <hi>Made by Mr.</hi> Doggett, <hi>and Sung by him and Mrs.</hi> Hodgſon.</stage>
+            <sp>
+               <speaker>M.</speaker>
+               <lg>
+                  <l>AT <hi>London</hi> che've been, at <hi>London</hi> che've been</l>
+                  <l>And c'have ſeen the King and the Queen'a</l>
+                  <l>C'have ſeen Lords and Earls,</l>
+                  <l>And many fine Girls,</l>
+                  <l>That turn'd up their tails at fifteen'a.</l>
+               </lg>
+               <lg>
+                  <l>Che've ſeen the Lord Mayor,</l>
+                  <l>And Bartholdom Fair,</l>
+                  <l>And their I met with the Draggon,</l>
+                  <l>That St. <hi>George</hi> that bold Knight,</l>
+                  <l>Fought and Killed outright</l>
+                  <l>Whilſt a man cou'd toſs off a flaggon.</l>
+               </lg>
+               <lg>
+                  <l>From thence as I went</l>
+                  <l>To ſee th' Monument,</l>
+                  <l>I met with a Girl in <hi>Cheapſide</hi>'a,</l>
+                  <l>That for half a Crown</l>
+                  <l>Pluck'd up her ſilk Gown,</l>
+                  <l>And ſhowd me how far ſhe cou'd ſtride'a.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Wo.</speaker>
+               <l>What elſe I did ſee,</l>
+               <l>Is nothing to me,</l>
+               <l>For if ſhe had ſuch tricks as theſe be,</l>
+               <pb n="5" facs="tcp:99092:5"/>
+               <!-- PDF PAGE 67 -->
+               <l>I'm ſure ſhe's a whore</l>
+               <l>Therefore ſay no more,</l>
+               <l>Nor think that I e're will be pleas'd with ye.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Nay prethee now hold,</l>
+               <l>And don't cry nor ſcold</l>
+               <l>If you know what 'tis to be quiet,</l>
+               <l>I went but to try</l>
+               <l>If that I cou'd ſpy</l>
+               <l>How I cou'd like Londoners diet.</l>
+            </sp>
+            <sp>
+               <speaker>Wo.</speaker>
+               <l>And for ought I ſee</l>
+               <l>The're not like to we,</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Faith and Troth 'tis a folly to lye</l>
+               <l>I think they are not</l>
+            </sp>
+            <sp>
+               <speaker>Wo.</speaker>
+               <l>No <hi>John</hi> not a jot</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>
+                  <hi>Joan</hi>—I prethee come in and let's try.</l>
+            </sp>
+            <sp>
+               <speaker>Wo.</speaker>
+               <l>Na good now la-be</l>
+               <l>Give an Inch I ſee</l>
+               <l>You'l take—Piſh-hie-what's the matter?</l>
+               <l>Why ſure <hi>John</hi> you wont</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>I'm a Dog and I don't,</l>
+               <l>Now I'm ſet on't, let what will come after.</l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Mercury.</stage>
+            <sp>
+               <speaker>Mer.</speaker>
+               <l>SLeep Cloſe the Eyes of all that's here</l>
+               <l>For mighty <hi>Jove</hi> will ſtreight appear</l>
+               <l>And Mortals muſt not dare to veiw</l>
+               <l>What <hi>Jove</hi> on Earth reſolves to do.</l>
+            </sp>
+            <pb n="6" facs="tcp:99092:6"/>
+            <!-- PDF PAGE 68 -->
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>What whipſter are you? that dares here reſort,</l>
+               <l>Adzooks to hinder our ſport:</l>
+               <l>Begon and quit the place</l>
+               <l>Or Crab-ſtick here ſhall wipe you o're the Face</l>
+               <l>'Fleſh and Bones do you laugh, I ſhall mawle.</l>
+               <stage>yawns.</stage>
+               <stage>Mercury <hi>Charms him to ſleep.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Mer.</speaker>
+               <l>Hail Royall maid? belov'd of Heav'n,</l>
+               <l>Pattern of Chaſtity Divine</l>
+               <l>A votary to Great <hi>Diana</hi>'s Shrine,</l>
+               <l>To you a preſent <hi>Jove</hi> has giv'n,</l>
+               <l>Cloſe by the Sea it ſtands</l>
+               <l>Waiting to be receiv'd by your Fair hands.</l>
+            </sp>
+            <sp>
+               <speaker>Eur.</speaker>
+               <l>Bleſt be <hi>Jove.</hi>
+               </l>
+               <l>To him I'le dayly incenſe pay,</l>
+               <l>And at his Altars Maiden off'rings lay</l>
+               <l>Both for his Gift and Love.</l>
+               <stage>Exiunt.</stage>
+            </sp>
+            <stage>A Symphony of Muſick, and they all wake.</stage>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>Adzooks I have had a moſt Notable Nap.</l>
+               <l>But where is our Miſtreſs, adſniggs ſhe is gone,</l>
+               <l>O diſmal miſhap.</l>
+               <l>We're all quite undone.</l>
+            </sp>
+            <pb n="7" facs="tcp:99092:6"/>
+            <!-- PDF PAGE 68 -->
+            <stage>
+               <hi>The</hi> Scene <hi>draws and diſcovers</hi> Europa <hi>on a Bulls back in the Sea.</hi>
+            </stage>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>Look She's on a Bull's back ith' mid'ſt oth' Sea.</l>
+               <l>Ods fleſh what will now become of poor me.</l>
+               <stage>They all run off.</stage>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <l>Is there no ſuccour, help, are Gods too grown</l>
+               <l>Raviſhers, help help, oh Heavens is there's none.</l>
+               <stage>A Symphony of Muſick.</stage>
+            </sp>
+            <stage>
+               <hi>The</hi> Scene <hi>Changes to a Bower, and diſ<g ref="char:EOLhyphen"/>covers</hi> Jupiter <hi>and</hi> Europa, <hi>her Hair looſe about her, as juſt Raviſh'd.</hi>
+            </stage>
+            <sp>
+               <speaker>Eur.</speaker>
+               <l>UNdone <hi>Europa</hi> by a God undone;</l>
+               <l>Is then <hi>Aſtrea</hi> fled from Heaven,</l>
+               <l>Oh whether is the Goddeſs driven?</l>
+               <l>To the Infernal Cave ſhe's gone.</l>
+               <l>Confuſion, Horror, Death, all come,</l>
+               <l>For in my Raviſht Breaſt for you is Room:</l>
+               <l>Who's there?</l>
+               <l>Ha! 'tis my Raviſher!</l>
+               <l>Oh let me fly the hated God.</l>
+               <l>I feel I go</l>
+               <l>To Shades below,</l>
+               <l>My Laſt aboad.</l>
+               <stage>Swouns.</stage>
+            </sp>
+            <pb n="8" facs="tcp:99092:7"/>
+            <!-- PDF PAGE 69 -->
+            <stage>
+               <hi>The Attendants place</hi> Europa <hi>in a Chariot.</hi>
+            </stage>
+            <sp>
+               <speaker>Ju.</speaker>
+               <l>RAiſe her my Son, no more my Fair,</l>
+               <l>Lament, for thou ſhalt be a Star,</l>
+               <l>Sound Muſick from the Sphears her mind to eaſe,</l>
+               <l>And tune her Soul for th' Immortal bliſs.</l>
+            </sp>
+            <stage>
+               <hi>Muſick ſound and as</hi> Jupiter <hi>and</hi> Europa <hi>aſcend this</hi> Chorus <hi>is Sung, and after the</hi> Chorus <hi>they joyn in a Grand Dance.</hi>
+            </stage>
+            <sp>
+               <speaker>Cho.</speaker>
+               <l>See where the God and Nymphs aſcending,</l>
+               <l>And Choirs of Spirits them attending,</l>
+               <l>They Mount, they Mount the ſeats of reſt</l>
+               <l>Where Souls are with Immortal Pleaſures Bleſt.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
